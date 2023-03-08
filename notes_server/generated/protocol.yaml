@@ -1,0 +1,5 @@
+notes:
+  - getAllNotes:
+  - updateNote:
+  - createNote:
+  - deleteNote:
